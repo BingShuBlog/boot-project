@@ -77,7 +77,7 @@ pom.xml  maven pom文件，如需知道详细意思可以学习maven
 
 当看到以下画面，访问成功
 
-![1](.\image\1.png)
+![1](https://github.com/BingShuBlog/boot-project/blob/dev/boot-start/image/1.png)
 
 
 

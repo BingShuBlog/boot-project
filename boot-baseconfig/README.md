@@ -380,9 +380,9 @@ public static void main(String[] args) {
 
 ​       
 
-​        3.当属性很多的时候可以用Class封装
+​   3.当属性很多的时候可以用Class封装
 
-​       @EnableConfigurationProperties({ConfigBean.class}) 主函数类加入该注解
+​  @EnableConfigurationProperties({ConfigBean.class}) 主函数类加入该注解
 
 ```java
 @ConfigurationProperties(prefix="bingshu.blog")

@@ -4,13 +4,13 @@ Navicat MySQL Data Transfer
 Source Server         : 本地mysql
 Source Server Version : 50725
 Source Host           : localhost:3306
-Source Database       : boot-jpa
+Source Database       : boot-mybatis
 
 Target Server Type    : MYSQL
 Target Server Version : 50725
 File Encoding         : 65001
 
-Date: 2019-04-26 17:28:45
+Date: 2019-04-26 18:04:38
 */
 
 SET FOREIGN_KEY_CHECKS=0;

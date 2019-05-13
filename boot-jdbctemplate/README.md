@@ -8,7 +8,7 @@
 
 ## 一、项目结构
 
-![1557301844026](.\image\1557301844026.png)
+![1557301844026](https://github.com/BingShuBlog/boot-project/blob/master/boot-jdbctemplate/image/1557301844026.png)
 
 
 

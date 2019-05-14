@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "com.nbkj.bootfastdfs.DemoApplication",
+            "projectName": "boot-fastdfs"
+        }
+    ]
+}

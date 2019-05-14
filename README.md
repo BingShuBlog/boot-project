@@ -30,6 +30,7 @@
 
    4.[SpringBoot整合JPA](https://github.com/BingShuBlog/boot-project/tree/master/boot-jpa )
 
+   5.[SpringBoot整个jdbcTemplate](https://github.com/BingShuBlog/boot-project/tree/master/boot-jdbctemplate)
 
 
 
